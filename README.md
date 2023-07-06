@@ -1,1 +1,1 @@
-# MachineLearning-uni
+Repository with exercises for Machine Learning
